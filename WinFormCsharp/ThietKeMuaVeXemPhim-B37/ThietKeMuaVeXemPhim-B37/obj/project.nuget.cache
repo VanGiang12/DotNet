@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HR71sU8qZzQDWZ0hpiBuxLWi0NxVi3O9ur2mmj1+bVwI3vJo6Ng/1selUYN6Tj7LxBxNqEvLKqF9tg3vO6MVtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\WinFormCsharp\\ThietKeMuaVeXemPhim-B37\\ThietKeMuaVeXemPhim-B37\\ThietKeMuaVeXemPhim-B37.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

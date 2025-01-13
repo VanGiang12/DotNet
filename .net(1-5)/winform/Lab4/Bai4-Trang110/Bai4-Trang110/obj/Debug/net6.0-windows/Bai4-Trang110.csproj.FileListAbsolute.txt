@@ -1,0 +1,17 @@
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\bin\Debug\net6.0-windows\Bai4-Trang110.exe
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\bin\Debug\net6.0-windows\Bai4-Trang110.deps.json
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\bin\Debug\net6.0-windows\Bai4-Trang110.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\bin\Debug\net6.0-windows\Bai4-Trang110.dll
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\bin\Debug\net6.0-windows\Bai4-Trang110.pdb
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4_Trang110.Form1.resources
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.dll
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\refint\Bai4-Trang110.dll
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.pdb
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\Bai4-Trang110.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\Bai4-Trang110\Bai4-Trang110\obj\Debug\net6.0-windows\ref\Bai4-Trang110.dll

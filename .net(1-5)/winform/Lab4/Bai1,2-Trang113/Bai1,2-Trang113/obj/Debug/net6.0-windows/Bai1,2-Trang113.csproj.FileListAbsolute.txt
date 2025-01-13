@@ -1,0 +1,17 @@
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\bin\Debug\net6.0-windows\Bai1,2-Trang113.exe
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\bin\Debug\net6.0-windows\Bai1,2-Trang113.deps.json
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\bin\Debug\net6.0-windows\Bai1,2-Trang113.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\bin\Debug\net6.0-windows\Bai1,2-Trang113.dll
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\bin\Debug\net6.0-windows\Bai1,2-Trang113.pdb
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1_2_Trang113.Form1.resources
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.dll
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\refint\Bai1,2-Trang113.dll
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.pdb
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\Bai1,2-Trang113.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\Bai1,2-Trang113\Bai1,2-Trang113\obj\Debug\net6.0-windows\ref\Bai1,2-Trang113.dll

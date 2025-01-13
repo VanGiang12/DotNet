@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="qltbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="NhaCungCap">
+    <Key>
+      <PropertyRef Name="MaNCC" />
+    </Key>
+    <Property Name="MaNCC" Type="Int32" Nullable="false" />
+    <Property Name="TenNhaCC" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DocQuyen" Type="Boolean" />
+    <Property Name="ThongTinChung" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ThietBis" Relationship="Self.FK_ThietBi_ToTable" FromRole="NhaCungCap" ToRole="ThietBi" />
+  </EntityType>
+  <EntityType Name="ThietBi">
+    <Key>
+      <PropertyRef Name="MaTB" />
+    </Key>
+    <Property Name="MaTB" Type="Int32" Nullable="false" />
+    <Property Name="TenTB" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="DonGia" Type="Double" />
+    <Property Name="ThanhTien" Type="Double" />
+    <Property Name="MaNCC" Type="Int32" />
+    <NavigationProperty Name="NhaCungCap" Relationship="Self.FK_ThietBi_ToTable" FromRole="ThietBi" ToRole="NhaCungCap" />
+  </EntityType>
+  <Association Name="FK_ThietBi_ToTable">
+    <End Role="NhaCungCap" Type="Self.NhaCungCap" Multiplicity="0..1" />
+    <End Role="ThietBi" Type="Self.ThietBi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhaCungCap">
+        <PropertyRef Name="MaNCC" />
+      </Principal>
+      <Dependent Role="ThietBi">
+        <PropertyRef Name="MaNCC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="qltbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NhaCungCaps" EntityType="Self.NhaCungCap" />
+    <EntitySet Name="ThietBis" EntityType="Self.ThietBi" />
+    <AssociationSet Name="FK_ThietBi_ToTable" Association="Self.FK_ThietBi_ToTable">
+      <End Role="NhaCungCap" EntitySet="NhaCungCaps" />
+      <End Role="ThietBi" EntitySet="ThietBis" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

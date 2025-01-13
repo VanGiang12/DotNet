@@ -1,0 +1,15 @@
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\bin\Debug\net6.0\Bai2_Binary.exe
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\bin\Debug\net6.0\Bai2_Binary.deps.json
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\bin\Debug\net6.0\Bai2_Binary.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\bin\Debug\net6.0\Bai2_Binary.dll
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\bin\Debug\net6.0\Bai2_Binary.pdb
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.dll
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\refint\Bai2_Binary.dll
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.pdb
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\Bai2_Binary.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai2_Binary\obj\Debug\net6.0\ref\Bai2_Binary.dll

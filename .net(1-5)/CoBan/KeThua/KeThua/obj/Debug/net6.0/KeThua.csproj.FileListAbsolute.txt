@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\bin\Debug\net6.0\KeThua.exe
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\bin\Debug\net6.0\KeThua.deps.json
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\bin\Debug\net6.0\KeThua.runtimeconfig.json
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\bin\Debug\net6.0\KeThua.dll
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\bin\Debug\net6.0\KeThua.pdb
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.AssemblyInfo.cs
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.dll
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\refint\KeThua.dll
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.pdb
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\KeThua.genruntimeconfig.cache
+C:\Users\HP\source\repos\Csharp\KeThua\KeThua\obj\Debug\net6.0\ref\KeThua.dll

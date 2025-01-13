@@ -1,0 +1,17 @@
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\bin\Debug\net6.0-windows\bai6.exe
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\bin\Debug\net6.0-windows\bai6.deps.json
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\bin\Debug\net6.0-windows\bai6.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\bin\Debug\net6.0-windows\bai6.dll
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\bin\Debug\net6.0-windows\bai6.pdb
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.Form1.resources
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.dll
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\refint\bai6.dll
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.pdb
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\bai6.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\Lab5\bai6\obj\Debug\net6.0-windows\ref\bai6.dll

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Home\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MuonTra\frmMuonSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapSach\frmPhieuMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapSach\frmThemNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSach\frmNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSach\frmQuanLySach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSach\frmTacGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSach\frmTheLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaoCaoTK\frm_tab_BaoCaoTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home\frm_tab_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapSach\frmDatSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapSach\frmXemThongTinDatSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLDocGia\frm_tab_QLDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLSach\frm_tab_QLS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

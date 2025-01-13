@@ -1,0 +1,104 @@
+﻿@model web1.Models.DonHang
+
+@{
+    ViewBag.Title = "ChiTiet";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+}
+
+<div class="container" style="min-height:80vh">
+    <div class="row">
+        <div class="col-md-12">
+            <h5 style="text-align:center; font-weight:bold">
+                Thông tin chi tiết
+            </h5>
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <h6 style="font-weight:bold">Thông tin khách hàng</h6>
+            <hr />
+            <div>
+                <dl class="dl-horizontal">
+                    <dt>
+                        Tên Khách Hàng
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.TenKH)
+                    </dd>
+
+                    <dt>
+                        Số Điện Thoại
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.SDT)
+                    </dd>
+
+                    <dt>
+                        Địa Chỉ
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.DiaChi)
+                    </dd>
+
+                    <dt>
+                        Ngày Đặt
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NgayDat)
+                    </dd>
+
+                </dl>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <h6>
+                <span style="font-weight:bold">Chi tiết đơn hàng</span>
+                <a href="~/DonHang/ThemChiTiet?IDDH=@Model.ID" style="float:right">Thêm</a>
+            </h6>
+            <hr />
+
+            <div>
+                <table class="table table-bordered">
+                    <tr>
+                        <th>Mã Máy</th>
+                        <th>Dòng Máy</th>
+                        <th>Giá Bán</th>
+                        <th>Hãng Sản Xuất</th>
+                        <th>Ngày Sản Xuất</th>
+                        <th>#</th>
+                    </tr>
+                    @foreach (var item in Model.MTDatMua)
+                    {
+                        <tr>
+                            <td>@item.MaMay</td>
+                            <td>@item.DongMay</td>
+                            <td>@item.DonGia</td>
+                            <td>@item.HangSanXuat</td>
+                            <td>@item.NgaySanXuat</td>
+                            <td>
+                                <a href="~/Donhang/SuaChitiet?IDDH=@Model.ID&maMay=@item.MaMay">Edit</a> |
+                                <a onclick="XoaKhachHang(@Model.ID,@item.MaMay)" href="#">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+@section script{
+    <script>
+        var XoaKhachHang = function(IDDH,maMay){
+            if (confirm("bạn có muốn xóa hay không?") == true) {
+                location.href = `/Donhang/XoaChitiet?(IDDH=${IDDH}&MaMay=${maMay})`;
+            }
+        }
+    </script>
+}
+

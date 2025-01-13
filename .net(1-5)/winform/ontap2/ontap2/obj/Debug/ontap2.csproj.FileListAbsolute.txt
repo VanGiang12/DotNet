@@ -1,0 +1,15 @@
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\bin\Debug\ontap2.exe.config
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\bin\Debug\ontap2.exe
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\bin\Debug\ontap2.pdb
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.Cau2.resources
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.Cau3.resources
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.Form1.resources
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.Properties.Resources.resources
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.exe
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.pdb
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.ThemCauThu.resources
+D:\DotNet\.net(1-5)\winform\ontap2\ontap2\obj\Debug\ontap2.filr.resources

@@ -1,0 +1,17 @@
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\bin\Debug\net6.0-windows\Bai23.exe
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\bin\Debug\net6.0-windows\Bai23.deps.json
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\bin\Debug\net6.0-windows\Bai23.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\bin\Debug\net6.0-windows\Bai23.dll
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\bin\Debug\net6.0-windows\Bai23.pdb
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.Form1.resources
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.dll
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\refint\Bai23.dll
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.pdb
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\Bai23.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\BTWinForm\BT\Bai23\obj\Debug\net6.0-windows\ref\Bai23.dll

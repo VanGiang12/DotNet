@@ -1,0 +1,16 @@
+C:\TaVan\listbox\checkList\bin\Debug\net8.0-windows\checkList.exe
+C:\TaVan\listbox\checkList\bin\Debug\net8.0-windows\checkList.deps.json
+C:\TaVan\listbox\checkList\bin\Debug\net8.0-windows\checkList.runtimeconfig.json
+C:\TaVan\listbox\checkList\bin\Debug\net8.0-windows\checkList.dll
+C:\TaVan\listbox\checkList\bin\Debug\net8.0-windows\checkList.pdb
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.Form1.resources
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.csproj.GenerateResource.cache
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.AssemblyInfoInputs.cache
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.AssemblyInfo.cs
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.csproj.CoreCompileInputs.cache
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.dll
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\refint\checkList.dll
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.pdb
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\checkList.genruntimeconfig.cache
+C:\TaVan\listbox\checkList\obj\Debug\net8.0-windows\ref\checkList.dll

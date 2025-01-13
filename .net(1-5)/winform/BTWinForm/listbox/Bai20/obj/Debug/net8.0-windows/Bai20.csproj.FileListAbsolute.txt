@@ -1,0 +1,16 @@
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\bin\Debug\net8.0-windows\Bai20.exe
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\bin\Debug\net8.0-windows\Bai20.deps.json
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\bin\Debug\net8.0-windows\Bai20.runtimeconfig.json
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\bin\Debug\net8.0-windows\Bai20.dll
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\bin\Debug\net8.0-windows\Bai20.pdb
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.Form1.resources
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.csproj.GenerateResource.cache
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.AssemblyInfoInputs.cache
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.AssemblyInfo.cs
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.csproj.CoreCompileInputs.cache
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.dll
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\refint\Bai20.dll
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.pdb
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\Bai20.genruntimeconfig.cache
+D:\Nam3\ki 2\CSharp\Lop\listbox\listbox\Bai20\obj\Debug\net8.0-windows\ref\Bai20.dll

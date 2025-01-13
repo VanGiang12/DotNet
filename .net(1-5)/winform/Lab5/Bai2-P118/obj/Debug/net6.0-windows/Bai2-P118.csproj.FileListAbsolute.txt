@@ -1,0 +1,17 @@
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\bin\Debug\net6.0-windows\Bai2-P118.exe
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\bin\Debug\net6.0-windows\Bai2-P118.deps.json
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\bin\Debug\net6.0-windows\Bai2-P118.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\bin\Debug\net6.0-windows\Bai2-P118.dll
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\bin\Debug\net6.0-windows\Bai2-P118.pdb
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2_P118.Form1.resources
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.dll
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\refint\Bai2-P118.dll
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.pdb
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\Bai2-P118.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\Lab5\Bai2-P118\obj\Debug\net6.0-windows\ref\Bai2-P118.dll

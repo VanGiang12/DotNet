@@ -1,0 +1,73 @@
+﻿@model IEnumerable<web1.Models.DonHang>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+    ViewBag.active = 7;
+}
+                        @*Đẩy footer xuống*@
+<div class="container" style="min-height:80vh">
+    <div class="row">
+        <div class="col-md-12">
+            <h5>
+                Danh Sách Đơn Hàng
+                <a href="~/DonHang/ThemMoi" style="float:right">Thêm Mới</a>
+            </h5>
+
+        </div>
+    </div>
+    <div class="col-md-12">
+
+        <table class="table table-bordered">
+            <tr>
+                <th>ID</th>
+                <th>
+                    Tên Khách Hàng
+                </th>
+                <th>
+                    Số Điện Thoại
+                </th>
+                <th>
+                    Địa Chỉ
+                </th>
+                <th>
+                    Ngày Đặt
+                </th>
+                <th>#</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>
+                        <a href="~/DonHang/ChiTiet?IDDH=@item.ID">@item.TenKH</a>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SDT)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiaChi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayDat);
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "CapNhat", new { IDDH = item.ID }) |
+                        <a onclick="XoaDonHang(@item.ID)" href="#">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+@section script{
+    <script>
+        var XoaDonHang = function (IDDH) {
+            if (confirm("Bạn muốn xóa?")==true) {
+                location.href = '/DonHang/Xoa?IDDH=' + IDDH;
+            }
+        }
+    </script>
+}

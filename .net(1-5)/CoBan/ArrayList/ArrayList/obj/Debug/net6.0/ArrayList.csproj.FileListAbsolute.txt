@@ -1,0 +1,15 @@
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.exe
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.dll
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.dll
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\refint\ArrayList.dll
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\CoBan\ArrayList\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll

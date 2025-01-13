@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D1F452-16D1-419E-A8DF-628A46E53BF7}|Bai20\\Bai20.csproj|d:\\nam3\\ki 2\\csharp\\lop\\listbox\\listbox\\bai20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D1F452-16D1-419E-A8DF-628A46E53BF7}|Bai20\\Bai20.csproj|solutionrelative:bai20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D1F452-16D1-419E-A8DF-628A46E53BF7}|Bai20\\Bai20.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0D1F452-16D1-419E-A8DF-628A46E53BF7}|Bai20\\Bai20.csproj|solutionrelative:bai20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D1F452-16D1-419E-A8DF-628A46E53BF7}|Bai20\\Bai20.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D1F452-16D1-419E-A8DF-628A46E53BF7}|Bai20\\Bai20.csproj|solutionrelative:bai20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A98CAB-8FD8-4B89-B4DF-D7ADB426E4BC}|comboBox\\comboBox.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\combobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71A98CAB-8FD8-4B89-B4DF-D7ADB426E4BC}|comboBox\\comboBox.csproj|solutionrelative:combobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90E1907-C2CF-4BA3-9418-90A87F05BD9B}|5.4-Bai1\\5.4-Bai1.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\5.4-bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E90E1907-C2CF-4BA3-9418-90A87F05BD9B}|5.4-Bai1\\5.4-Bai1.csproj|solutionrelative:5.4-bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601F48D8-81F9-48C4-9050-480755E6F3B5}|quanLySanPham\\quanLySanPham.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanlysanpham\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{601F48D8-81F9-48C4-9050-480755E6F3B5}|quanLySanPham\\quanLySanPham.csproj|solutionrelative:quanlysanpham\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513A2064-7767-4C20-9F33-91FF53E89E36}|checkList\\checkList.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\checklist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513A2064-7767-4C20-9F33-91FF53E89E36}|checkList\\checkList.csproj|solutionrelative:checklist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601F48D8-81F9-48C4-9050-480755E6F3B5}|quanLySanPham\\quanLySanPham.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanlysanpham\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{601F48D8-81F9-48C4-9050-480755E6F3B5}|quanLySanPham\\quanLySanPham.csproj|solutionrelative:quanlysanpham\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|solutionrelative:bai19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|solutionrelative:bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A98CAB-8FD8-4B89-B4DF-D7ADB426E4BC}|comboBox\\comboBox.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\combobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A98CAB-8FD8-4B89-B4DF-D7ADB426E4BC}|comboBox\\comboBox.csproj|solutionrelative:combobox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|solutionrelative:bai19\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E493BD23-9726-4BD6-BD35-82B097837259}|bai19\\bai19.csproj|solutionrelative:bai19\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601F48D8-81F9-48C4-9050-480755E6F3B5}|quanLySanPham\\quanLySanPham.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanlysanpham\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601F48D8-81F9-48C4-9050-480755E6F3B5}|quanLySanPham\\quanLySanPham.csproj|solutionrelative:quanlysanpham\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90E1907-C2CF-4BA3-9418-90A87F05BD9B}|5.4-Bai1\\5.4-Bai1.csproj|D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\5.4-bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90E1907-C2CF-4BA3-9418-90A87F05BD9B}|5.4-Bai1\\5.4-Bai1.csproj|solutionrelative:5.4-bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\Bai20\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai20\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\Bai20\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai20\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:41:16.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\Bai20\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai20\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\Bai20\\Form1.cs",
+              "RelativeToolTip": "Bai20\\Form1.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:53:55.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\comboBox\\Form1.cs",
+              "RelativeDocumentMoniker": "comboBox\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\comboBox\\Form1.cs [Design]",
+              "RelativeToolTip": "comboBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:01:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\Bai20\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai20\\Form1.Designer.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\Bai20\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai20\\Form1.Designer.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAmwM8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:57:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\5.4-Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "5.4-Bai1\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\5.4-Bai1\\Form1.cs [Design]",
+              "RelativeToolTip": "5.4-Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:18.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDanhMuc.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanLySanPham\\frmDanhMuc.cs",
+              "RelativeDocumentMoniker": "quanLySanPham\\frmDanhMuc.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanLySanPham\\frmDanhMuc.cs [Design]",
+              "RelativeToolTip": "quanLySanPham\\frmDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:53:55.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\checkList\\Form1.cs",
+              "RelativeDocumentMoniker": "checkList\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\checkList\\Form1.cs [Design]",
+              "RelativeToolTip": "checkList\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:38.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanLySanPham\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "quanLySanPham\\frmSanPham.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanLySanPham\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "quanLySanPham\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:04:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\Form1.cs",
+              "RelativeDocumentMoniker": "bai19\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\Form1.cs [Design]",
+              "RelativeToolTip": "bai19\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:58:42.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\Program.cs",
+              "RelativeDocumentMoniker": "bai19\\Program.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\Program.cs",
+              "RelativeToolTip": "bai19\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:24.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\comboBox\\Form1.cs",
+              "RelativeDocumentMoniker": "comboBox\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\comboBox\\Form1.cs",
+              "RelativeToolTip": "comboBox\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:56:20.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "bai19\\frmSinhVien.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\frmSinhVien.cs [Design]",
+              "RelativeToolTip": "bai19\\frmSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:26.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\SinhVien.cs",
+              "RelativeDocumentMoniker": "bai19\\SinhVien.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\bai19\\SinhVien.cs",
+              "RelativeToolTip": "bai19\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:25.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanLySanPham\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "quanLySanPham\\frmSanPham.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\quanLySanPham\\frmSanPham.cs",
+              "RelativeToolTip": "quanLySanPham\\frmSanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:06:53.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\5.4-Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "5.4-Bai1\\Form1.cs",
+              "ToolTip": "D:\\Nam3\\ki 2\\CSharp\\Lop\\listbox\\listbox\\5.4-Bai1\\Form1.cs",
+              "RelativeToolTip": "5.4-Bai1\\Form1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:32:52.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

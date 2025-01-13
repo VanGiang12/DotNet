@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DocGiaModelStoreContainer" CdmEntityContainer="DocGiaEntities">
+    <EntitySetMapping Name="docgias">
+      <EntityTypeMapping TypeName="DocGiaModel.docgia">
+        <MappingFragment StoreEntitySet="docgia">
+          <ScalarProperty Name="sdt" ColumnName="sdt" />
+          <ScalarProperty Name="diachi" ColumnName="diachi" />
+          <ScalarProperty Name="coquan" ColumnName="coquan" />
+          <ScalarProperty Name="tendg" ColumnName="tendg" />
+          <ScalarProperty Name="madg" ColumnName="madg" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

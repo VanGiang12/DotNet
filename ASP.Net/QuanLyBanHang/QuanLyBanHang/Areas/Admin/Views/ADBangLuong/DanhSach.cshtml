@@ -1,0 +1,81 @@
+﻿@model IEnumerable<QuanLyBanHang.Models.BangLuong>
+
+@{
+    ViewBag.Title = "DanhSach";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h5>Danh sách bảng lương</h5>
+    </div>
+</div>
+
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Tên nhân viên
+        </th>
+        <th>
+            Tháng
+        </th>
+        <th>
+            Năm
+        </th>
+        <th>
+            Lương theo ngày
+        </th>
+        <th>
+            Số ngày công
+        </th>
+        <th>
+            Lương nhận
+        </th>
+
+        <th>
+            Ngày trả
+        </th>
+        <th>
+            Đã trả
+        </th>
+        <th>#</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhanVien.TenNhanVien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Thang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nam)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.LuongTheoNgay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoNgayCong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LuongNhan)
+            </td>
+
+            <td>
+                @string.Format("{0:dd/MM/yyyy}", item.NgayTra)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DanhDauTra)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "CapNhat", new { ID = item.ID }) |
+                @Html.ActionLink("Delete", "Xoa", new { ID = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>

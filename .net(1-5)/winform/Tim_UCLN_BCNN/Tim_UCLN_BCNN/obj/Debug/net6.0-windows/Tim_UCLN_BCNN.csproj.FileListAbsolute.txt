@@ -1,0 +1,17 @@
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\bin\Debug\net6.0-windows\Tim_UCLN_BCNN.exe
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\bin\Debug\net6.0-windows\Tim_UCLN_BCNN.deps.json
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\bin\Debug\net6.0-windows\Tim_UCLN_BCNN.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\bin\Debug\net6.0-windows\Tim_UCLN_BCNN.dll
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\bin\Debug\net6.0-windows\Tim_UCLN_BCNN.pdb
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.Form1.resources
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.dll
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\refint\Tim_UCLN_BCNN.dll
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.pdb
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\Tim_UCLN_BCNN.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\Tim_UCLN_BCNN\Tim_UCLN_BCNN\obj\Debug\net6.0-windows\ref\Tim_UCLN_BCNN.dll

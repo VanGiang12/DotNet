@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\bin\Debug\net6.0\gamedoanso.exe
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\bin\Debug\net6.0\gamedoanso.deps.json
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\bin\Debug\net6.0\gamedoanso.runtimeconfig.json
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\bin\Debug\net6.0\gamedoanso.dll
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\bin\Debug\net6.0\gamedoanso.pdb
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.AssemblyInfo.cs
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.dll
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\refint\gamedoanso.dll
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.pdb
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\gamedoanso.genruntimeconfig.cache
+C:\Users\HP\source\repos\gamedoanso\gamedoanso\obj\Debug\net6.0\ref\gamedoanso.dll

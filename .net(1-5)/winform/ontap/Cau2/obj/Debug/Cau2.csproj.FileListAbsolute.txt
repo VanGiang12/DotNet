@@ -1,0 +1,13 @@
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\bin\Debug\Cau2.exe.config
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\bin\Debug\Cau2.exe
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\bin\Debug\Cau2.pdb
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.Cau2.resources
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.Cau3.resources
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.Form1.resources
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.Properties.Resources.resources
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.csproj.GenerateResource.cache
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.exe
+D:\DotNet\.net(1-5)\winform\ontap\Cau2\obj\Debug\Cau2.pdb

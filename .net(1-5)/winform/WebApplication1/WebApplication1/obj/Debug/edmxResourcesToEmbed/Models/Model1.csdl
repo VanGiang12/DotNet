@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DocGiaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DocGiaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="docgias" EntityType="DocGiaModel.docgia" />
+  </EntityContainer>
+  <EntityType Name="docgia">
+    <Key>
+      <PropertyRef Name="madg" />
+    </Key>
+    <Property Name="madg" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="tendg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="coquan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="diachi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="sdt" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,15 @@
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\bin\Debug\net6.0\HangHoas.exe
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\bin\Debug\net6.0\HangHoas.deps.json
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\bin\Debug\net6.0\HangHoas.runtimeconfig.json
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\bin\Debug\net6.0\HangHoas.dll
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\bin\Debug\net6.0\HangHoas.pdb
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.dll
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\refint\HangHoas.dll
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.pdb
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\HangHoas.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\HangHoas\HangHoas\obj\Debug\net6.0\ref\HangHoas.dll

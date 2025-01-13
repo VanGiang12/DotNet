@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\bin\Debug\net6.0-windows\WinFormsMoDau.exe
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\bin\Debug\net6.0-windows\WinFormsMoDau.deps.json
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\bin\Debug\net6.0-windows\WinFormsMoDau.runtimeconfig.json
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\bin\Debug\net6.0-windows\WinFormsMoDau.dll
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\bin\Debug\net6.0-windows\WinFormsMoDau.pdb
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.Form1.resources
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.AssemblyInfo.cs
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.dll
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\refint\WinFormsMoDau.dll
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.pdb
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\WinFormsMoDau.genruntimeconfig.cache
+C:\Users\HP\source\repos\WinFormCsharp\WinFormsMoDau\WinFormsMoDau\obj\Debug\net6.0-windows\ref\WinFormsMoDau.dll

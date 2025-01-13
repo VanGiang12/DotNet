@@ -1,0 +1,15 @@
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\bin\Debug\net6.0\Bai4-P164.exe
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\bin\Debug\net6.0\Bai4-P164.deps.json
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\bin\Debug\net6.0\Bai4-P164.runtimeconfig.json
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\bin\Debug\net6.0\Bai4-P164.dll
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\bin\Debug\net6.0\Bai4-P164.pdb
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.csproj.AssemblyReference.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.AssemblyInfoInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.AssemblyInfo.cs
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.csproj.CoreCompileInputs.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.dll
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\refint\Bai4-P164.dll
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.pdb
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\Bai4-P164.genruntimeconfig.cache
+D:\DotNet\.net(1-5)\winform\Lab7\Bai4-P164\obj\Debug\net6.0\ref\Bai4-P164.dll

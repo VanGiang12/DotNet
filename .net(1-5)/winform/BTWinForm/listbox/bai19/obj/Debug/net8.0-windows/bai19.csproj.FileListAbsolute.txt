@@ -1,0 +1,16 @@
+C:\TaVan\listbox\bai19\bin\Debug\net8.0-windows\bai19.exe
+C:\TaVan\listbox\bai19\bin\Debug\net8.0-windows\bai19.deps.json
+C:\TaVan\listbox\bai19\bin\Debug\net8.0-windows\bai19.runtimeconfig.json
+C:\TaVan\listbox\bai19\bin\Debug\net8.0-windows\bai19.dll
+C:\TaVan\listbox\bai19\bin\Debug\net8.0-windows\bai19.pdb
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.Form1.resources
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.csproj.GenerateResource.cache
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.AssemblyInfoInputs.cache
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.AssemblyInfo.cs
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.csproj.CoreCompileInputs.cache
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.dll
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\refint\bai19.dll
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.pdb
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\bai19.genruntimeconfig.cache
+C:\TaVan\listbox\bai19\obj\Debug\net8.0-windows\ref\bai19.dll

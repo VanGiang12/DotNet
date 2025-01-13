@@ -1,0 +1,8 @@
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\bin\Debug\QuanLySinhVien_New.exe.config
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\bin\Debug\QuanLySinhVien_New.exe
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\bin\Debug\QuanLySinhVien_New.pdb
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\obj\Debug\QuanLySinhVien_New.Form1.resources
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\obj\Debug\QuanLySinhVien_New.Properties.Resources.resources
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\obj\Debug\QuanLySinhVien_New.csproj.GenerateResource.Cache
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\obj\Debug\QuanLySinhVien_New.exe
+E:\C#\2024\Tin 15A19\LapTrinhQuanLy\QuanLySinhVien_New\obj\Debug\QuanLySinhVien_New.pdb
