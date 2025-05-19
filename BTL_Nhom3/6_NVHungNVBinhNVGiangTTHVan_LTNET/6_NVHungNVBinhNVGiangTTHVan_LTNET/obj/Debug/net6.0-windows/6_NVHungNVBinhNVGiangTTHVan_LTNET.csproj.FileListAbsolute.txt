@@ -1,0 +1,275 @@
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.AssemblyReference.cache
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Home_Giang.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Login_Giang.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_QLKhachHang_Giang.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.GenerateResource.cache
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfoInputs.cache
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfo.cs
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CoreCompileInputs.cache
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.exe
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.deps.json
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.runtimeconfig.json
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CopyComplete
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\refint\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.genruntimeconfig.cache
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\ref\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.Properties.Resources.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_ThongKe_Binh.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLLoaiSo_Hung.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLNhanVien_Hung.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Giang.frm_ThongTin_Giang.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichGui_Van.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichTatToan_Van.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_GioiThieu_Binh.resources
+D:\DotNet\BTLon\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.exe
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.deps.json
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.runtimeconfig.json
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.AssemblyReference.cache
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.Properties.Resources.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_GioiThieu_Binh.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_ThongKe_Binh.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Home_Giang.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Login_Giang.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_QLKhachHang_Giang.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Giang.frm_ThongTin_Giang.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLLoaiSo_Hung.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLNhanVien_Hung.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichGui_Van.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichTatToan_Van.resources
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.GenerateResource.cache
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfoInputs.cache
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfo.cs
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CoreCompileInputs.cache
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHung.63DBC6E0.Up2Date
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\refint\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.genruntimeconfig.cache
+D:\Nam3\6_NVHungNVBinhNVGiangTTHVan_LTNET1\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\ref\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.exe
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.deps.json
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.runtimeconfig.json
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.Properties.Resources.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_GioiThieu_Binh.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_ThongKe_Binh.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Home_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Login_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_QLKhachHang_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Giang.frm_ThongTin_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLLoaiSo_Hung.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLNhanVien_Hung.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichGui_Van.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichTatToan_Van.resources
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfo.cs
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CopyComplete
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\refint\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.genruntimeconfig.cache
+C:\Users\HP\Documents\Zalo Received Files\6_NVHungNVBinhNVGiangTTHVan_LTNET (1)\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\ref\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.exe
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.deps.json
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.runtimeconfig.json
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.Properties.Resources.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_GioiThieu_Binh.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_ThongKe_Binh.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Home_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Login_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_QLKhachHang_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Giang.frm_ThongTin_Giang.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLLoaiSo_Hung.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLNhanVien_Hung.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichGui_Van.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichTatToan_Van.resources
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfo.cs
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CopyComplete
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\refint\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.genruntimeconfig.cache
+C:\Users\HP\Documents\Zalo Received Files\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\ref\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.exe
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.deps.json
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.runtimeconfig.json
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.AssemblyReference.cache
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.Properties.Resources.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_GioiThieu_Binh.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Binh.frm_ThongKe_Binh.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Home_Giang.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_Login_Giang.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.frm_QLKhachHang_Giang.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Giang.frm_ThongTin_Giang.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLLoaiSo_Hung.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Hung.frm_QLNhanVien_Hung.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichGui_Van.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\_6_NVHungNVBinhNVGiangTTHVan_LTNET.UI.Van.frm_QLGiaoDichTatToan_Van.resources
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.GenerateResource.cache
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfoInputs.cache
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.AssemblyInfo.cs
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CoreCompileInputs.cache
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.csproj.CopyComplete
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\refint\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.pdb
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\6_NVHungNVBinhNVGiangTTHVan_LTNET.genruntimeconfig.cache
+D:\DotNet\BTL_Nhom3\6_NVHungNVBinhNVGiangTTHVan_LTNET\6_NVHungNVBinhNVGiangTTHVan_LTNET\obj\Debug\net6.0-windows\ref\6_NVHungNVBinhNVGiangTTHVan_LTNET.dll

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\Binh\frm_GioiThieu_Binh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Binh\frm_ThongKe_Binh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Giang\frm_Home_Giang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Giang\frm_Login_Giang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Giang\frm_QLKhachHang_Giang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Giang\frm_ThongTin_Giang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Hung\frm_QLLoaiSo_Hung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Hung\frm_QLNhanVien_Hung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Van\frm_QLGiaoDichGui_Van.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Van\frm_QLGiaoDichTatToan_Van.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
