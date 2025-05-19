@@ -1,0 +1,21 @@
+﻿@model btvn_Tuan3.Models.PTB2
+@{
+    ViewBag.Title = "GiaiPT2";
+}
+
+<h2>GiaiPT2</h2>
+
+@{ Html.BeginForm();}
+
+@Html.LabelFor(m => m.a)
+@Html.TextBoxFor(m => m.a)
+<br />
+@Html.LabelFor(m => m.b)
+@Html.TextBoxFor(m => m.b)
+<br />
+@Html.LabelFor(m => m.c)
+@Html.TextBoxFor(m => m.c)
+<br />
+<input type="submit" value="Giải"/>
+@{ Html.EndForm();}
+<h5>@ViewBag.msg</h5>

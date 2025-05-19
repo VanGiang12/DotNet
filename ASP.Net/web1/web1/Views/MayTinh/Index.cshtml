@@ -1,0 +1,66 @@
+﻿@model IEnumerable<web1.Models.MayTinh>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+    ViewBag.active = 8;
+}
+
+<div class="container" style="min-height:80vh; margin:100px 0px">
+    <div class="row">
+        <div class="col-md-12">
+            <h4>
+                Danh sách máy tính
+                <a href="~/MayTinh/ThemMoi" style="float:right">Thêm mới</a>
+            </h4>
+            <div class="col-md-12">
+                <form method="get">
+                    <div class="col-xs-2">
+                        <input type="text" placeholder="Nhập tên " name="key" class="form-control" />
+                    </div>
+                    <div class="col-xs-2" style="margin:5px 0px">
+                        <button type="submit" class="btn btn-success">Tìm</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <table class="table table-bordered">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TenMayTinh)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.HangSanXuat)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NamSanXuat)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenMayTinh)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.HangSanXuat)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NamSanXuat)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "CapNhat", new { id = item.ID }) |
+                            @Html.ActionLink("Delete", "Xoa", new { id = item.ID })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
+
+

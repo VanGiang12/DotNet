@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "TimSoHoanHao";
+}
+
+<h2>TimSoHoanHao</h2>
+
+@{ Html.BeginForm();}
+
+@Html.Label("Nhập n")
+@Html.Editor("n")
+<input type="submit" value="submit" />
+@{ Html.EndForm();}
+
+<h5>@ViewBag.msg</h5>

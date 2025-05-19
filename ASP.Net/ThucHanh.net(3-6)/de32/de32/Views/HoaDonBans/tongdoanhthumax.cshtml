@@ -1,0 +1,55 @@
+﻿@model IEnumerable<de32.Models.DoanhThuMax>
+
+@{
+    ViewBag.Title = "tongdoanhthumax";
+}
+
+<h2>tongdoanhthumax</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Mã Sách
+        </th>
+        <th>
+            Tên sách
+        </th>
+        <th>
+           Thể loại
+        </th>
+        <th>
+           Đơn giá
+        </th>
+        <th>Số lượng tồn</th>
+        <th>Doanh thu</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        foreach (var item2 in item.Sachs)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item2.MaSach)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item2.TenSach)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item2.TheLoai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item2.DonGia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item2.SoLuongTon)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Doanhthu)
+                </td>
+            </tr>
+        }
+    }
+
+</table>

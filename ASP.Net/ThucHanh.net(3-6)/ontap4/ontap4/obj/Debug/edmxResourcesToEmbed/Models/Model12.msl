@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities1">
+    <EntitySetMapping Name="BenhNhans">
+      <EntityTypeMapping TypeName="Database1Model.BenhNhan">
+        <MappingFragment StoreEntitySet="BenhNhan">
+          <ScalarProperty Name="MaBN" ColumnName="MaBN" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LichHens">
+      <EntityTypeMapping TypeName="Database1Model.LichHen">
+        <MappingFragment StoreEntitySet="LichHen">
+          <ScalarProperty Name="MaLichHen" ColumnName="MaLichHen" />
+          <ScalarProperty Name="MaBN" ColumnName="MaBN" />
+          <ScalarProperty Name="NgayHen" ColumnName="NgayHen" />
+          <ScalarProperty Name="BacSi" ColumnName="BacSi" />
+          <ScalarProperty Name="LyDo" ColumnName="LyDo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

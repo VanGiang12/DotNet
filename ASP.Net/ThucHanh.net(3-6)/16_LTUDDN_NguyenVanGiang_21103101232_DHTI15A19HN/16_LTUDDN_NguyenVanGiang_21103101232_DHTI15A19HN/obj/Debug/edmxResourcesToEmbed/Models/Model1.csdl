@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NguyenVanGiangModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BenhNhan">
+    <Key>
+      <PropertyRef Name="MaBN" />
+    </Key>
+    <Property Name="MaBN" Type="Int32" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <Property Name="GioiTinh" Type="Boolean" />
+    <Property Name="SDT" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="LichSuDieuTris" Relationship="Self.FK_Table_ToTable" FromRole="BenhNhan" ToRole="LichSuDieuTri" />
+  </EntityType>
+  <EntityType Name="LichSuDieuTri">
+    <Key>
+      <PropertyRef Name="MaLS" />
+    </Key>
+    <Property Name="MaLS" Type="Int32" Nullable="false" />
+    <Property Name="MaBN" Type="Int32" />
+    <Property Name="NgayDieuTri" Type="DateTime" Precision="3" />
+    <Property Name="ChuanDoan" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="PhuongPhap" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ChiPhi" Type="Decimal" Precision="10" Scale="2" />
+    <NavigationProperty Name="BenhNhan" Relationship="Self.FK_Table_ToTable" FromRole="LichSuDieuTri" ToRole="BenhNhan" />
+  </EntityType>
+  <Association Name="FK_Table_ToTable">
+    <End Role="BenhNhan" Type="Self.BenhNhan" Multiplicity="0..1" />
+    <End Role="LichSuDieuTri" Type="Self.LichSuDieuTri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BenhNhan">
+        <PropertyRef Name="MaBN" />
+      </Principal>
+      <Dependent Role="LichSuDieuTri">
+        <PropertyRef Name="MaBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NguyenVanGiangEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BenhNhans" EntityType="Self.BenhNhan" />
+    <EntitySet Name="LichSuDieuTris" EntityType="Self.LichSuDieuTri" />
+    <AssociationSet Name="FK_Table_ToTable" Association="Self.FK_Table_ToTable">
+      <End Role="BenhNhan" EntitySet="BenhNhans" />
+      <End Role="LichSuDieuTri" EntitySet="LichSuDieuTris" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

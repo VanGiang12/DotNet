@@ -1,0 +1,12 @@
+﻿@model btvn_Tuan3.Models.Users
+@{
+    ViewBag.Title = "Bai1";
+}
+
+<h2>Bai1</h2>
+@{Html.BeginForm();}
+
+@Html.DropDownListFor(m=>m.Address, new SelectList(Enum.GetValues(typeof(btvn_Tuan3.Models.EAddress))),"Select city")
+
+@{ Html.EndForm();}
+

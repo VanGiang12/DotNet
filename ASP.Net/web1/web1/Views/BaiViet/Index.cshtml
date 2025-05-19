@@ -1,0 +1,70 @@
+﻿@model IEnumerable<web1.Models.BaiViet>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+    ViewBag.active = 10;
+    int stt = 0;
+}
+
+<div class="container" style="min-height:60vh; margin:150px auto ">
+    <div class="row">
+        <div class="col-md-12">
+            <h5>
+                Danh sách bài viết
+                <a href="~/BaiViet/ThemMoi" style="float:right">Thêm mới</a>
+            </h5>
+        </div>
+    </div>
+
+    <table class="table table-bordered">
+        <tr>
+            <th>STT</th>
+            <th>
+                Tên bài viết
+            </th>
+            <th>
+                Ngày viết
+            </th>
+            <th>
+                Người viết
+            </th>
+            <th>
+                Hiển thị
+            </th>
+            <th>
+                Loại
+            </th>
+            <th>#</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            stt++;
+            <tr>
+                <td>@stt</td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenBaiViet)
+                </td>
+                <td>
+                    @string.Format("{0:dd-MM-yyyy}", item.NgayViet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NguoiViet)
+                </td>
+                <td>
+                    <input type="checkbox" @Html.Raw(item.HienThi == true ? "checked" : "") />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LoaiBaiViet.TenLoai)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

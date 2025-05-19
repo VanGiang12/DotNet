@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="qltbModelStoreContainer" CdmEntityContainer="qltbEntities">
+    <EntitySetMapping Name="NhaCungCaps">
+      <EntityTypeMapping TypeName="qltbModel.NhaCungCap">
+        <MappingFragment StoreEntitySet="NhaCungCap">
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+          <ScalarProperty Name="TenNhaCC" ColumnName="TenNhaCC" />
+          <ScalarProperty Name="DocQuyen" ColumnName="DocQuyen" />
+          <ScalarProperty Name="ThongTinChung" ColumnName="ThongTinChung" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThietBis">
+      <EntityTypeMapping TypeName="qltbModel.ThietBi">
+        <MappingFragment StoreEntitySet="ThietBi">
+          <ScalarProperty Name="MaTB" ColumnName="MaTB" />
+          <ScalarProperty Name="TenTB" ColumnName="TenTB" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+          <ScalarProperty Name="ThanhTien" ColumnName="ThanhTien" />
+          <ScalarProperty Name="MaNCC" ColumnName="MaNCC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

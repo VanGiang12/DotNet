@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ontap.Models.HoaDon>
+
+@{
+    ViewBag.Title = "BanChay";
+}
+
+<h2>BanChay</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<p>Số lượng còn lại trong kho @ViewBag.slconlai</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SanPhams.Tensp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ngayban)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Soluongban)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SanPhams.Tensp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ngayban)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Soluongban)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Mahd }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Mahd }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Mahd })
+        </td>
+    </tr>
+}
+
+</table>

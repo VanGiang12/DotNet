@@ -1,0 +1,101 @@
+﻿@*@model IEnumerable<web1.Models.KhachHang>*@
+@model IEnumerable<web1.Models.spDanhSachKhachHang_Result>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+    ViewBag.active = 6;
+    web1.Models.BanHang_TestEntities1 db = new web1.Models.BanHang_TestEntities1();
+    List<web1.Models.LoaiKhachHang> lstLoaiKH = db.LoaiKhachHangs.ToList();
+
+}
+
+<div class="container" style="min-height:60vh;margin:100px auto">
+    <div class="row">
+        <div class="col-md-12">
+            <h5>
+                Danh sách khách hàng
+                <a href="~/KhachHang/ThemMoi" style="float:right">Thêm mới</a>
+            </h5>
+            <div class="col-md-12">
+                <form method="get">
+                    <div class="col-xs-2">
+                        <input type="text" placeholder="Nhập tên hoặc số điện thoại" name="key" value="@ViewBag.key" class="form-control" />
+                    </div>
+
+                    <div class="col-xs-2">
+                        <select name="idloaiKH" class="form-control">
+                            <option value="">Tất cả</option>
+                            @foreach(var loai in lstLoaiKH)
+                            {
+                                <option value="@loai.ID" @Html.Raw(loai.ID==ViewBag.idLoaiKH?"selected":"")>@loai.TenPhanLoai</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="col-xs-2" style="margin:5px 0px">
+                        <button type="submit" class="btn btn-success">Tìm</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-12">
+        <table class="table table-bordered">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TenKhachHang)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SoDienThoai)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DiaChi)
+                </th>
+                <th>Loại Khách Hàng</th>
+                <th>#</th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenKhachHang)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SoDienThoai)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiaChi)
+                    </td>
+                    <td>
+                        @item.PhanLoai
+                        @*@{
+                            @*var loai = db.LoaiKhachHangs.Find(item.idLoaiKhachHang);
+                            if (loai != null)
+                            {
+                                <span>@loai.TenPhanLoai</span>
+                            }*@
+
+                                            @*if(item.LoaiKhachHang != null)
+                            {
+                                <span>@item.LoaiKhachHang.TenPhanLoai</span>
+                            }
+
+                        }*@
+
+
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "CapNhat", new { id = item.ID }) |
+                        @*@Html.ActionLink("Xóa Nhóm", "XoaKhachHangTheoNhom", new { idLoaiKhachHang = item.idLoaiKhachHang }) |*@
+                        @Html.ActionLink("Delete", "Xoa", new { id = item.ID })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+

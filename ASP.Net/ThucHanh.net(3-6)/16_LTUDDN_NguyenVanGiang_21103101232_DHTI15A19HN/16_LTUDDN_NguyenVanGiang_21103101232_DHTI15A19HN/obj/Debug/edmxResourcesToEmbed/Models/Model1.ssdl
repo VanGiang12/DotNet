@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NguyenVanGiangModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BenhNhan">
+    <Key>
+      <PropertyRef Name="MaBN" />
+    </Key>
+    <Property Name="MaBN" Type="int" Nullable="false" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="datetime" />
+    <Property Name="GioiTinh" Type="bit" />
+    <Property Name="SDT" Type="nvarchar" MaxLength="15" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="LichSuDieuTri">
+    <Key>
+      <PropertyRef Name="MaLS" />
+    </Key>
+    <Property Name="MaLS" Type="int" Nullable="false" />
+    <Property Name="MaBN" Type="int" />
+    <Property Name="NgayDieuTri" Type="datetime" />
+    <Property Name="ChuanDoan" Type="nvarchar" MaxLength="100" />
+    <Property Name="PhuongPhap" Type="nvarchar" MaxLength="100" />
+    <Property Name="ChiPhi" Type="decimal" Precision="10" Scale="2" />
+  </EntityType>
+  <Association Name="FK_Table_ToTable">
+    <End Role="BenhNhan" Type="Self.BenhNhan" Multiplicity="0..1" />
+    <End Role="LichSuDieuTri" Type="Self.LichSuDieuTri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BenhNhan">
+        <PropertyRef Name="MaBN" />
+      </Principal>
+      <Dependent Role="LichSuDieuTri">
+        <PropertyRef Name="MaBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NguyenVanGiangModelStoreContainer">
+    <EntitySet Name="BenhNhan" EntityType="Self.BenhNhan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LichSuDieuTri" EntityType="Self.LichSuDieuTri" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Table_ToTable" Association="Self.FK_Table_ToTable">
+      <End Role="BenhNhan" EntitySet="BenhNhan" />
+      <End Role="LichSuDieuTri" EntitySet="LichSuDieuTri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

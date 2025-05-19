@@ -1,0 +1,83 @@
+﻿@model IEnumerable<web1.Models.NhanVien>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/LayoutAdmin.cshtml";
+}
+
+<div class="container" style="min-height:80vh; margin:100px 0px">
+    <div class="row">
+        <div class="col-md-12">
+            <h4>
+                Danh sách nhân viên
+                <a href="~/Admin/NhanVien/ThemMoi" style="float:right">Thêm mới</a>
+            </h4>
+            <table class="table table-bordered">
+                <tr>
+                    <th>
+                        Username
+                    </th>
+                    <th>
+                        Password
+                    </th>
+                    <th>
+                        Tên Nhân Viên
+                    </th>
+                    <th>
+                        Số điện thoại
+                    </th>
+                    <th>
+                        Ngày sinh
+                    </th>
+                    <th>
+                        Địa chỉ
+                    </th>
+                    <th>
+                        ID loại nhân viên
+                    </th>
+                    <th>
+                        Chức vụ
+                    </th>
+                    <th>#</th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Username)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Password)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenNhanVien)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SDT)
+                        </td>
+                        <td>
+                            @Html.Raw(string.Format("{0:dd-MM-yyyy}", item.NgaySinh))
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DiaChi)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.idLoaiNhanVien)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ChucVu)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+
+        </div>
+    </div>
+</div>

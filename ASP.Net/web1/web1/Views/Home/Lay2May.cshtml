@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Trang Chủ";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+}
+<main>
+    <div class="page-section features">
+        <h4>2 Máy Tính giá thấp nhất</h4>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Mã Máy</th>
+                    <th>Dòng Máy</th>
+                    <th>Đơn Giá</th>
+                    <th>Ngày Sản Xuất</th>
+                    <th>Hãng Sản Xuất</th>
+                </tr>
+            </thead>
+            <tbody>
+                @*Khi viết c# trong html phải có @*@
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.MaMay</td>
+                        <td>@item.DongMay</td>
+                        <td>@string.Format("{0:#,0}", item.DonGia)</td>
+                        <td>@string.Format("{0:dd-MM-yyyy}", item.NgaySanXuat)</td>
+                        <td>@item.HangSanXuat</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+     </div>
+</main>
+
+
